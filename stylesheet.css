@@ -21,16 +21,13 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  width: 100%;
-  height: 100%;
-  color: rgba(255,255,255,0.8);
-  background-blend-mode:lighten;
+  color: white;
   text-align: center;
 }
 .blend{
 	position:relative;
-	width:720px; /*背景画像の横幅*/
-	height:480px; /*背景画像の縦幅*/
+	width: 100%; /*背景画像の横幅*/
+	height: 100%; /*背景画像の縦幅*/
 	background: url('https://digital10ve.github.io/20151225-daftpunk_full.jpg');
 }
 .blend__text{
