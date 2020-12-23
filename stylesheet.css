@@ -23,7 +23,7 @@ a {
   background-size: cover;
   color: white;
   text-align: center;
-  mix-blend-mode: difference;
+  mix-blend-mode: color-burn;
 }
 
 .top-wrapper h1 {
