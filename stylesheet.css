@@ -18,7 +18,7 @@ a {
 }
 .blend{
 	position: relative;
-	width: 50%; /*背景画像の横幅*/
+	width: 100%; /*背景画像の横幅*/
 	height: 50%; /*背景画像の縦幅*/
 	background: url('https://digital10ve.github.io/20151225-daftpunk_full.jpg');
 	background-size: cover;
