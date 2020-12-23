@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(top.png);
+  background-image: url(base.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -28,7 +28,7 @@ a {
 	position:relative;
 	width: 100%; /*背景画像の横幅*/
 	height: 100%; /*背景画像の縦幅*/
-	background: url('https://digital10ve.github.io/20151225-daftpunk_full.jpg');
+	background: url(top.png);
 }
 .blend__text{
 	font-size:100px;
