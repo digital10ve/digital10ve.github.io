@@ -27,7 +27,7 @@ a {
 	font-weight:bold;
 	color:#3F3F3F;
 	text-align:center;
-	line-height: 100%; /*親要素の背景画像の縦幅*/
+	line-height: 480px; /*親要素の背景画像の縦幅*/
 	mix-blend-mode: color-burn; /*値を変更すれば様々な効果を与えられます*/
 }
 .top-wrapper h1 {
