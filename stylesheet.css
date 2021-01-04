@@ -276,3 +276,34 @@ footer {
     width: 100%;
   }
 }
+.button{
+　position: fixed;
+　top: 10px;
+　right: 10px;
+　height: 34px;
+　width: 44px;
+　display: block;
+　box-sizing: border-box;
+　background-color: #60371B;
+　border: none;
+　padding: 6px 10px;
+}
+.button　div {
+　position: absolute;
+　left: 10px;
+　height: 2px;
+　width: 24px;
+　background-color: #fff;
+　border-radius: 1px;
+　display: inline-block;
+　box-sizing: border-box;
+}
+.button　div:nth-of-type(1) {
+　top: 6px;
+}
+.button　div:nth-of-type(2) {
+　top: 16px;
+}
+.button　div:nth-of-type(3) {
+　bottom: 6px;
+}
